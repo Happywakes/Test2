@@ -24,7 +24,7 @@ namespace Test
                 }
                 else
                 {
-                    Console.WriteLine("It's ok; at least you made to us! Can you read and sign this paperwork?");
+                    Console.WriteLine("It's ok; at least you made it to us! Can you read and sign this paperwork?");
                     Console.WriteLine("(Speech options: I can't read. or Of course!)");
                     Console.ReadLine();
                     Console.WriteLine("Wonderful! Just one little injection....... ");
@@ -52,7 +52,7 @@ namespace Test
                     v = Console.ReadLine();
                     if (v == "ex1")
                     {
-                        Console.Write("Ok let me switch to than video stream, says the nurse while typing.");
+                        Console.Write("Ok let me switch to that video stream, says the nurse while typing.");
                         Console.WriteLine("Static covers the screen for a brief second but then an image begins to appear as it clears.");
                         Console.WriteLine("You and the nurse laugh maniacally. Behold Weasel-Man!");
                     }
